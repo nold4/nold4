@@ -1,6 +1,6 @@
 I’m @nold4
 
-a student trying to learn java and python
+a student learning c++ and java
 
 
 <!---
